@@ -1,0 +1,9 @@
+{
+	"name": "netflixAdfsam",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83d9e6f3-aeb5-4084-897b-f6004f3bfa41",
+		"tenantId": "e471f015-dc23-41bb-ac78-835a60efccda"
+	}
+}
